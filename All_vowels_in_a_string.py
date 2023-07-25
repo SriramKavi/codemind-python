@@ -1,3 +1,4 @@
+
 a=input()
 k=a.lower()
 v='aeiou'
